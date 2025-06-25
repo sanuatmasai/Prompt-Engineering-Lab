@@ -1,0 +1,90 @@
+{
+  "zero_shot": [
+    {
+      "query": "What are the symptoms of diabetes?",
+      "response": "The symptoms of diabetes can vary depending on the type of diabetes, but some common symptoms include:\n\n1. Fatigue\n2. Shortness of breath\n3. Blurred vision\n4. Nausea\n5. Fatigue\n6. Soreness or pain in the legs or feet\n7. Weight loss\n8. Increased thirst\n9. Dry mouth or mouth ulcers\n10. Nausea or vomiting\n11. Increased thirst\n12. Shortness of breath\n13. Blurred vision\n14. Nausea or vomiting\n15. Fatigue\n16. Soreness or pain in the legs or feet\n17. Weight loss\n18. Increased thirst\n19. Dry mouth or mouth ulcers\n20. Nausea or vomiting\n21. Shortness of breath\n22. Blurred vision\n23. Nausea or vomiting\n24. Fatigue\n25. Soreness or pain in the legs or feet\n26. Weight loss\n27. Increased thirst\n28. Dry mouth or mouth ulcers\n29. Nausea or vomiting\n30. Fatigue\n31. Sore"
+    },
+    {
+      "query": "What does a persistent dry cough indicate?",
+      "response": "A persistent dry cough may indicate a respiratory infection, such as pneumonia or bronchitis, or a condition called asthma. It can also be caused by other medical conditions, such as chronic bronchitis, pneumonia, or sinusitis."
+    },
+    {
+      "query": "Can I take paracetamol with ibuprofen?",
+      "response": "Yes, you can take ibuprofen with paracetamol. It is safe to do so, and the amount of ibuprofen you should take depends on the dosage of paracetamol. It is generally recommended that you take one tablet of ibuprofen for pain relief. If you have any concerns about taking ibuprofen with paracetamol, please consult with your doctor."
+    },
+    {
+      "query": "Is it safe to exercise with a fever?",
+      "response": "A fever is a sign that the body is trying to fight an infection. It can be a sign of a serious illness, but it can also be a sign of a healthy condition like a cold or flu. It's important to take it slow and rest if you have a fever, and to follow your doctor's instructions for taking medication if you're taking any medications. If you have a fever, it's important to drink plenty of fluids and stay hydrated to help your body fight the infection."
+    },
+    {
+      "query": "What are common side effects of antibiotics?",
+      "response": "Common side effects of antibiotics include:\n\n1. Pain and discomfort in the throat, stomach, or intestines.\n2. Headache or fever.\n3. Fatigue or weakness.\n4. Nausea or vomiting.\n5. Blood in the urine or stool.\n6. Dizziness or fainting.\n7. Abdominal pain or discomfort.\n8. Fatigue or weakness.\n9. Fatigue or weakness.\n10. Fatigue or weakness.\n\nThese side effects are a normal part of the antibiotic process and are not related to the antibiotic itself."
+    }
+  ],
+  "few_shot": [
+    {
+      "query": "What are the symptoms of diabetes?",
+      "response": "The purpose of a kidney transplant is to replace the kidneys with a healthy kidney from a donor, thereby improving"
+    },
+    {
+      "query": "What does a persistent dry cough indicate?",
+      "response": "A common cold is a common viral infection that causes a runny nose, cough, sore throat, and congestion. It can also cause sneezing, watery or itchy eyes, and fatigue."
+    },
+    {
+      "query": "Can I take paracetamol with ibuprofen?",
+      "response": "A virus is a small, infectious entity that can reproduce and spread. Bacteria are larger and more complex organisms that reproduce and can cause illness.\n\nQ: What is the difference between a virus and"
+    },
+    {
+      "query": "Is it safe to exercise with a fever?",
+      "response": "It is important to rest, take over-the-counter"
+    },
+    {
+      "query": "What are common side effects of antibiotics?",
+      "response": "Chest pain,"
+    }
+  ],
+  "cot_prompt": [
+    {
+      "query": "What are the symptoms of diabetes?",
+      "response": "The symptoms of diabetes include:\n- Unexplained weight loss\n- Unexplained or increased thirst\n- Unexplained or excessive urination\n- Unexplained or excessive urination\n- Unexplained or increased thirst\n- Unexplained or increased thirst\n- Unexplained or increased thirst\n- Unexplained or excessive urination\n- Unexplained or excessive urination\n- Unexplained or increased thirst\n- Unexplained or excessive urination\n- Unexplained or excessive urination\n- Unexplained or increased thirst\n- Unexplained or excessive urination\n- Unexplained or excessive urination\n- Unexplained or increased thirst\n- Unexplained or excessive urination\n- Unexplained or excessive urination\n- Unexplained or increased thirst\n- Unexplained or excessive urination\n- Unexplained or excessive urination\n- Unexplained or excessive urination\n- Unexplained or excessive urination\n- Unexplained or excessive urination\n- Unexplained or excessive urination\n- Unexplained or excessive urination\n- Unexplained or excessive urination\n- Unexplained or excessive urination\n- Unexplained or excessive urination\n- Unexplained or excessive urination\n- Unexplained or excessive urination\n- Unexplained or excessive urination\n- Unexplained or"
+    },
+    {
+      "query": "What does a persistent dry cough indicate?",
+      "response": "A cough with mucus and phlegm means that the cough is very difficult to clear and can be very difficult to"
+    },
+    {
+      "query": "Can I take paracetamol with ibuprofen?",
+      "response": "No, you should not take ibuprofen with other pain"
+    },
+    {
+      "query": "Is it safe to exercise with a fever?",
+      "response": "A fever is a medical condition that can lead to serious complications if left untreated. It is important to follow proper precautions when exercising with a fever.\nExercise with a fever is not safe. The fever can lead to a range of complications, including:\n- Severe infection\n- Respiratory failure\n- Increased risk of developing sepsis\n- Increased risk of bleeding\n- Increased risk of hospitalization\n- Increased risk of developing other complications such as septicemia or pneumonia\n- Increased risk of death\nIt is important to follow proper precautions when exercising with a fever, such as:\n- Avoiding strenuous exercise or physical activity for a few days\n- Resting and taking rest days\n- Drinking plenty of fluids to keep your body hydrated\n- Eating healthy foods that are low in sodium and high in potassium\n- Taking over-the-counter pain relievers or acetaminophen if necessary\n- Using over-the-counter antibiotics if necessary\n- Taking heat therapy or warm baths to help soothe your body\n- Taking over-the-counter anti-inflammatory medications to help reduce inflammation and pain\nIf you have a fever, it is important to seek medical attention immediately."
+    },
+    {
+      "query": "What are common side effects of antibiotics?",
+      "response": "Common side effects of antibiotics include:\n1. Rash\n2. Eye irritation\n3. Headache\n4. Abdominal cramps\n5. Muscle pain\n6. Abdominal bloating\n7. Diarrhea\n8. Nausea\n9. Constipation\n10. Heartburn\n11. Sexual dysfunction\n12. Oral ulcers\n13. Malnutrition\n14. Allergic reactions\n15. Skin rash\n16. Respiratory infections\n17. Infections in the urinary tract\n18. Infections in the respiratory tract\n19. Infections in the gastrointestinal tract\n20. Infections in the skin\n21. Infections in the skin\n22. Infections in the respiratory tract\n23. Infections in the gastrointestinal tract\n24. Infections in the respiratory tract\n25. Infections in the skin\n26. Infections in the gastrointestinal tract\n27. Infections in the respiratory tract\n28. Infections in the skin\n29. Infections in the gastrointestinal tract\n30. Infections in the respiratory tract\n31. Infections in the skin\n32. Infections in the"
+    }
+  ],
+  "meta_prompt": [
+    {
+      "query": "What are the symptoms of diabetes?",
+      "response": "The symptoms of diabetes are a list of signs that your body is not producing the necessary glucose to function properly. The list can vary depending on your age, gender, and other factors. The most common symptoms of diabetes include:\n\n1. Fatigue\n2. Weight gain\n3. Joint pain\n4. Shortness of breath\n5. Unusual thirst\n6. Nausea\n7. Fatigue\n8. Difficulty sleeping\n9. Insomnia\n10. Unexplained weight loss\n11. Changes in your skin color\n12. Changes in your heart rate and blood pressure\n13. Changes in your blood sugar levels\n14. Shortness of breath\n15. Unexplained weight loss\n\nIf you are experiencing any of these symptoms, it is important to seek medical attention from a healthcare professional. Diabetes is a chronic condition that can lead to complications such as heart disease, stroke, kidney disease, and nerve damage if left untreated. Early diagnosis and treatment can help improve your quality of life and prevent complications."
+    },
+    {
+      "query": "What does a persistent dry cough indicate?",
+      "response": "A persistent dry cough may indicate a variety of conditions, including:\n1. Inflammation: A dry cough may be caused by inflammation, which can occur as a result of infection, trauma, or other factors.\n2. Inflammation and infection: Inflammation can cause coughing, which can be triggered by infection, such as a viral infection, bacterial infection, or other infectious agent.\n3. Chronic lung diseases: Chronic lung diseases such as chronic bronchitis, emphysema, or chronic obstructive pulmonary disease can cause chronic cough, which can be accompanied by other symptoms.\n4. Chronic lung infections: Chronic lung infections such as pneumonia, tuberculosis, or lung abscess can cause coughing, which can be accompanied by other symptoms.\n5. Infection: Persistent coughing can also be caused by infection, such as a viral infection, bacterial infection, or other infectious agent.\n6. Respiratory infection: Respiratory infection, such as a bacterial infection, can cause persistent coughing, which can be accompanied by other symptoms.\n\nIn addition to these common causes, persistent dry cough can also be caused by other factors, such as:\n1. Bronchitis: Bronchitis is a inflammation of the bronchial tubes, which are airways that"
+    },
+    {
+      "query": "Can I take paracetamol with ibuprofen?",
+      "response": "Yes, you can take paracetamol with ibuprofen.\nThe most common side effect of ibuprofen is stomach upset. It can also cause dizziness, headache, nausea, and vomiting.\nParacetamol can cause stomach upset. It can also cause dizziness, headache, nausea, and vomiting.\nTake ibuprofen with paracetamol.\nDo not take ibuprofen with paracetamol if you have an underlying medical condition.\nDo not take ibuprofen if you have a bleeding disorder.\nDo not take ibuprofen if you have a kidney disease.\nDo not take ibuprofen if you are pregnant.\nDo not take ibuprofen if you are breast-feeding.\nParacetamol can cause dizziness, headache, nausea, and vomiting.\nDo not take ibuprofen if you have a bleeding disorder.\nDo not take ibuprofen if you are pregnant.\nDo not take ibuprofen if you are breast-feeding.\nDo not take ibuprofen if you have a kidney disease.\nDo not take ibuprofen if you are breast-feeding.\nDo not take ibuprofen if you are pregnant.\nDo not take ibuprofen if you are breast-feeding.\nDo not take ibuprofen if you have a"
+    },
+    {
+      "query": "Is it safe to exercise with a fever?",
+      "response": "It is not safe to exercise with a fever. A fever can increase the risk of getting sick or causing more serious health problems. It is important to take steps to prevent and manage a fever, such as taking over-the-counter fever reducers or visiting a healthcare provider if you have a fever that is consistently high or has been present for several days. It is also important to practice good hygiene, such as washing your hands frequently, and to stay home if you are feeling unwell. If you have a fever, you should seek medical attention to get a proper diagnosis and treatment plan."
+    },
+    {
+      "query": "What are common side effects of antibiotics?",
+      "response": "Common side effects of antibiotics include:\n\n1. Urinary tract infections (UTIs) - These are bacterial infections of the urinary tract that usually cause pain and discharge.\n2. Nose and throat infections - These are bacterial infections of the nose and throat that usually cause fever, cough, and sore throat.\n3. Skin infections - These are bacterial infections of the skin that can cause redness, swelling, and itching.\n4. Bone and joint infections - These are bacterial infections of the bones and joints that can cause fever, joint pain, and swelling.\n5. Infection of the gastrointestinal tract - These are bacterial infections of the gastrointestinal tract that can cause diarrhea, vomiting, and abdominal pain.\n6. Infection of the respiratory tract - These are bacterial infections of the respiratory tract that can cause cough, wheezing, and shortness of breath.\n7. Infection of the urinary tract - These are bacterial infections of the urinary tract that can cause infection in the bladder and kidneys.\n8. Infection of the reproductive tract - These are bacterial infections of the reproductive tract that can cause infection in the uterus and fallopian tubes.\n\nThese are just a few examples of the common side effects of antibiotics. If you have any specific questions about the side effects of antibiotics, it would"
+    }
+  ]
+}
